@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3d5b9f-a1b7-4921-b8b3-23a905929ad7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1r1iYXAA7pp7mjzUb4ZZJWCwBIM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huang626\go\src\internetbar_echo\cmd" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build internetbar_echo/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Internetbar_echo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <package value="internetbar_echo/cmd" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build internetbar_echo/cmd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="361" key="#SQL_Dialects" timestamp="1623201475846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1623201475846" />
+    <state x="560" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622903036811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622903036811" />
+    <state width="1293" height="171" key="GridCell.Tab.0.bottom" timestamp="1626343275616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626343275616" />
+    <state width="1293" height="171" key="GridCell.Tab.0.center" timestamp="1626343275616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="171" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626343275616" />
+    <state width="1293" height="171" key="GridCell.Tab.0.left" timestamp="1626343275616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="171" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626343275616" />
+    <state width="1293" height="171" key="GridCell.Tab.0.right" timestamp="1626343275616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="171" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626343275616" />
+    <state width="1877" height="257" key="GridCell.Tab.1.bottom" timestamp="1626283878729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626283878729" />
+    <state width="1877" height="257" key="GridCell.Tab.1.center" timestamp="1626283878729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626283878729" />
+    <state width="1877" height="257" key="GridCell.Tab.1.left" timestamp="1626283878729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626283878729" />
+    <state width="1877" height="257" key="GridCell.Tab.1.right" timestamp="1626283878729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626283878729" />
+    <state x="734" y="305" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1626430726769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="305" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626430726769" />
+    <state x="735" y="342" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1626142833019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="342" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1626142833019" />
+    <state x="747" y="310" width="441" height="412" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1623207268645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="310" width="441" height="412" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623207268645" />
+    <state x="1168" y="136" width="502" height="565" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1626364706815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1168" y="136" width="502" height="565" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626364706815" />
+    <state x="808" y="278" key="refactoring.ChangeSignatureDialog" timestamp="1622970482861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="278" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622970482861" />
+    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1626431198133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626431198133" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;internetbar_echo/model.Token&quot;)(824635449344)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
